@@ -3,6 +3,7 @@ rebar.fake (v0.1.0)
 
 a rebar.config to shim [erlang.mk][erlang.mk] for [rebar][rebar]
 
+if you want the exact opposite, please have a look to [erlang.fake][erlang.fake]
 
 ### instructions ###
 
@@ -36,3 +37,4 @@ THE SOFTWARE.
 
 [rebar]: https://github.com/rebar/rebar
 [erlang.mk]: https://github.com/essen/erlang.mk
+[erlang.fake]: https://github.com/talentdeficit/erlang.fake
